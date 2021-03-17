@@ -1,0 +1,29 @@
+.recipe_div_style {
+  box-shadow: 5px 25px 25px -5px rgba(0, 0, 0, 0.2);
+  /* border-radius: 20px; */
+  width: 45%;
+}
+.style_recipe {
+  border: 5px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  padding: 5px;
+  box-shadow: 5px 10px 10px -5px rgba(0, 0, 0, 0.5);
+}
+.img_style {
+  height: 40vh;
+  border: 5px solid rgba(0, 0, 0, 0.2);
+  /* border-radius: 15px; */
+  width: 100%;
+  display: block;
+  margin: 10px auto;
+}
+.list_style {
+  text-align: left;
+  list-style: none;
+  padding: 0px 20px;
+}
+.text_style {
+  padding: 5px 20px;
+}
